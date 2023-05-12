@@ -175,14 +175,14 @@ const Login = () => {
             />
             <label>Google Login</label>
           </div>
-          <div>
+        {/*   <div>
             <img
               style={{ width: "27px" }}
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/640px-Facebook_Logo_%282019%29.png"
               alt="icon"
             />
             <label>Facebook Login</label>
-          </div>
+          </div> */}
         </div>
         <p className="signup">
           Don't have an account?
